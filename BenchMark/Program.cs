@@ -10,10 +10,10 @@ namespace BenchMark
             BenchmarkRunner.Run<ClassVsStruct>();
         }
     }
-    public class ThreadVsThreadTask
-    {
-        public void 
-    }
+    //public class ThreadVsThreadTask
+    //{
+    //    public void 
+    //}
 
 }
 
